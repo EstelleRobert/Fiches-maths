@@ -12,9 +12,11 @@ Unisciel : Site qui explique de façon plus illustré.
        
        
            
-Un indispensable à connaître :
+Deux indispensables à connaître :
 
-Wolfram alpha : C'est votre calculatrice aaméliorée : https://www.wolframalpha.com/
+Wolfram alpha : C'est votre calculatrice améliorée : https://www.wolframalpha.com/
                 On peut lui donner une matrice et il sait la diagonaliser, on peut résoudre des systèmes d'équations, quand on lui donne une expression compliquée il sait la simplifier etc.
                 C'est super pratique pour vérifier ses calculs et pour travailler dans la vie de tous les jours, notamment en stage plus théorique par exemple.
                 ex avec une somme : https://www.wolframalpha.com/input?i=sum+n%2C+k%3D0+to+n
+
+dCode : Très pratique pour tout : comme wolfram alpha mais en plus intéractif : https://www.dcode.fr/identite-bezout : 
